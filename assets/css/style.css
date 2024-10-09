@@ -1,0 +1,11 @@
+
+/*Id selector*/
+#myid{
+    color:yellow;
+    font-size:40px
+}
+/*class selector uses the dot notation*/
+.myclass{
+color:green;
+font-size:40px;
+}
